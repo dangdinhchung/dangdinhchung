@@ -152,47 +152,6 @@ Sunday       231 commits    █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    33 hrs 9 mins       ██████████████████████░░░   91.04% 
-Python                   56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
-C++                      51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
-HTML                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
-
-🔥 Editors: 
-Browser                  33 hrs 7 mins       ██████████████████████░░░   90.94% 
-WebStorm                 1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
-PyCharm                  1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-CLion                    54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
-
-🐱‍💻 Projects: 
-JayantGoel001.github.io  17 hrs 23 mins      ████████████░░░░░░░░░░░░░   47.73% 
-GIST Repos               9 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   27.28% 
-Non_Linear_Data_Structure5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
-Artificial-Intelligence  3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-💻 Operating System: 
-Windows                  36 hrs 25 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         26 repos            ██████░░░░░░░░░░░░░░░░░░░   26.26% 
-Python                   23 repos            █████░░░░░░░░░░░░░░░░░░░░   23.23% 
-C++                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
-Kotlin                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
 
 
 <!--END_SECTION:waka-->
@@ -244,52 +203,3 @@ JavaScript               9 repos             ██░░░░░░░░░�
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/hr.png"/></code>
-  </a>
-  
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cf.png"/></code>
-  </a>
-  
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/he.svg"/></code>
-  </a>
-  
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/cc.svg"/></code>
-  </a>
-</p>
-
-<br/>
-<br/>
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="Github Arctic Vault Contributor" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-#
-
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
-
-
-----
-
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001/)
-
-**Last Edited**: 12/04/2021
