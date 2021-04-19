@@ -22,22 +22,6 @@
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 - <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 #
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
-
-<p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
-  </a>
-</p>
-
-#
-
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/github.gif"></a>
-<br/>
-
 **LANGUAGES AND TOOLS:**  
 <br/>
 <br/>
